@@ -5,6 +5,7 @@
 ### Tecnologias auxiliares 
 <p display="inline-block">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="blazor-logo"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="blazor-logo"/>
 </p>
 
 
